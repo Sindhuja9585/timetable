@@ -123,5 +123,4 @@ Execute the program
 
 # RESULT
 
-
 The Program for creating slot timetable is completed successfully

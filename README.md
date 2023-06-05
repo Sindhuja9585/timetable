@@ -116,10 +116,12 @@ Execute the program
 
 
 # OUPUT
-![output](http://sindhujap.student.saveetha.in:8000/static/images/out.png?raw=true)
+![output]![timetable](https://github.com/Sindhuja9585/timetable/assets/122860624/b5db0b6f-febf-43dc-9741-b546bb00040e)
+
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://sindhujap.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTML VALIDATOR]![valid](https://github.com/Sindhuja9585/timetable/assets/122860624/21a04627-7501-4905-be20-1e7b66e93ae3)
+
 
 # RESULT
 
